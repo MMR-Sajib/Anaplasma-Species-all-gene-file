@@ -1,0 +1,1 @@
+# Anaplasma-Species-all-gene-file
